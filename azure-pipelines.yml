@@ -10,7 +10,7 @@ pool:
   name: Default
   demands:
   - npm
-#  vmImage: ubuntu-latest
+# vmImage: ubuntu-latest
 
 variables:
   buildConfiguration: 'Release'
